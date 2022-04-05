@@ -1,0 +1,24 @@
+:root{
+    --primary-color: #BAE6FD;
+}
+
+body{
+    background-color: #FEE2E2;
+    
+}
+
+#container{
+    margin: auto;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+#text{
+    font-size: 20px;
+}
+
+button{
+    border-radius: 1rem;
+    font-size: small;
+    background-color: var(--primary-color);
+}
